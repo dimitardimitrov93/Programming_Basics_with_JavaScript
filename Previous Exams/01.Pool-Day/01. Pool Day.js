@@ -18,6 +18,6 @@ function solve(input) {
     console.log(`${finalPrice} lv.`);
 }
 
-solve(21, 5.50, 4.40, 6.20);
-solve(50, 6, 8, 4);
-solve(100, 8, 6, 4);
+solve([21, 5.50, 4.40, 6.20]);
+solve([50, 6, 8, 4]);
+solve([100, 8, 6, 4]);
