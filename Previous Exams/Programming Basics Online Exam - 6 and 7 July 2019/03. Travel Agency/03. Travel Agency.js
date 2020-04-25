@@ -69,7 +69,6 @@ function solve(input) {
 
 solve([ 'Borovets', 'noEquipment', 'yes', '6' ]);
 // solve([ 'Bansko', 'withEquipment', 'no', '-1' ]);
-
 // solve([ 'Burgas', 'noBreakfast', 'no', '4' ]);
 // solve([ 'Varna', 'withBreakfast', 'no', '0' ]);
 // solve([ 'Varna', 'noBreakfast', 'no', '0', '' ]);
