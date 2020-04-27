@@ -3,6 +3,8 @@ function solve(input) {
 
   while (destination != "End") {
     let minBudget = Number(input.shift());
+
+    // Declare variable within cycle in order to reset it when needed
     let sum = 0;
 
     while (sum < minBudget) {
