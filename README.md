@@ -9,3 +9,6 @@ https://judge.softuni.bg/Contests#!/List/ByCategory/15/Programming-Basics
 
 My submissions and participation:
 https://judge.softuni.bg/Users/Dimitar_Dimitrov93
+
+The final exam was held on 02.05.2020. After completing all the given tasks, I received the maximum score of 105 points. Then SoftUni issued an honorable mention certificate in order to acknowledge my achievement and to validate the knowledge and skills which I developed during the course. The document can be reviewed by following the link below:
+https://softuni.bg/certificates/details/81812/5b54aec1
